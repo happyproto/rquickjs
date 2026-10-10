@@ -1,3 +1,4 @@
 [submodule "rquickjs-sys/quickjs"]
 	path = sys/quickjs
-	url = https://github.com/quickjs-ng/quickjs.git
+	url = https://github.com/happyproto/quickjs.git
+	branch = wasi-stack-limit
